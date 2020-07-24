@@ -1,3 +1,3 @@
 # TestimonialSlider
 
-![](img/2.png)
+![](img/1.png)
