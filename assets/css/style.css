@@ -1,0 +1,31 @@
+.shadow-effect {
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    text-align: center;
+border:1px solid #ECECEC;
+}
+
+img.img-circle {
+    border-radius: 50%;
+}
+
+p.author_name {
+    font-weight: bolder !important;
+    font-size: 25px;
+}
+
+.item {
+    text-align: center;
+    -webkit-transform: scale3d(0.8, 0.8, 1);
+    transform: scale3d(0.8, 0.8, 1);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.owl-carousel .owl-item img {
+    transform-style: preserve-3d;
+    max-width: 130px;
+    margin: 0 auto 17px;
+}
